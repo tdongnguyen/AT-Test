@@ -26,6 +26,7 @@ This project is a technical test , part of the recruitment process for the Data 
 * Python
 * Jupyter Notebook
 * Pandas
+* Numpy
 * Pickle
 * Visualisation: Seaborn, Matplotlib
 
