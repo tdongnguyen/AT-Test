@@ -19,30 +19,14 @@ This project is a technical test , part of the recruitment process for the Data 
 * Inferential Statistics
 * mice (Multivariate Imputation by Chained Equations)
 * Machine Learning Algorithm: Isolation Forest (https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html
-Data Visualization
-Predictive Modeling
-etc.
 
-First, introduce and motivate your chosen method, and explain how it contributes to solving the research question/business problem.
-
-Second, summarize your results concisely. Make use of subheaders where appropriate.
-
-Methods Used
-Inferential Statistics
-Machine Learning
-Data Visualization
-Predictive Modeling
-etc.
-
-Technologies
-R
+### Technologies
 Python
-D3
-PostGres, MySql
-Pandas, jupyter
-HTML
-JavaScript
-etc.
+Pandas
+Pickle
+
+## Results
+
 
 ## Repository overview
 
@@ -69,13 +53,9 @@ ex. Windows 10
 How/where to download your program
 Any modifications needed to be made to files/folders
 ### Executing program
-How to run the program
-Step-by-step bullets
-Clone this repo (for help see this tutorial).
+Clone this repo
 
 Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-If using offline data mention that and how they may obtain the data from the froup)
 
 Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
 
