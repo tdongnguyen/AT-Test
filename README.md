@@ -30,32 +30,24 @@ Pickle
 
 ## Repository overview
 
-Provide an overview of the directory structure and files, for example:
+* README.md
+* AT Test - Nov 2021.ipynb  (Main Project Notebook)
+* Presentation.pptx (Presentation to stakeholder)
+* Technical test sample data.ods (Raw Data)
+* AT ML technical Test.docx (AT Guideline)
 
-├── README.md
-├── data
-├── gen
-│   ├── analysis
-│   ├── data-preparation
-│   └── paper
-└── src
-    ├── analysis
-    ├── data-preparation
-    └── paper
 
 
 ## Running instructions
 
 ### Dependencies
-Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-ex. Windows 10
+
 ### Installing
-How/where to download your program
-Any modifications needed to be made to files/folders
+
 ### Executing program
 Clone this repo
 
-Raw Data is being kept [here](Repo folder containing raw data) within this repo.
+Raw Data is being kept [here](Technical test sample data.ods) within this repo.
 
 Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
 
