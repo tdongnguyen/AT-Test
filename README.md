@@ -20,12 +20,14 @@ This project is a technical test , part of the recruitment process for the Data 
 * mice (Multivariate Imputation by Chained Equations) (https://impyute.readthedocs.io/en/latest/_modules/impyute/imputation/cs/mice.html)
 * IQR (Interquartile Range) (https://en.wikipedia.org/wiki/Interquartile_range)
 * Machine Learning Algorithm: Isolation Forest (https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html)
-* Visualisation: Seaborn, Matplotlib
+* Machine Learning Algorithm: RandomForestRegressor (https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
 
 ### Technologies
-*Python
-*Pandas
-*Pickle
+* Python
+* Jupyter Notebook
+* Pandas
+* Pickle
+* Visualisation: Seaborn, Matplotlib
 
 ## Results
 
@@ -33,7 +35,7 @@ This project is a technical test , part of the recruitment process for the Data 
 ## Repository overview
 
 * README.md
-* AT Test - Nov 2021.ipynb  (Main Project Notebook)
+* AT Test - Nov 2021.ipynb  (Main Script Notebook)
 * Presentation.pptx (Presentation to stakeholder)
 * Technical test sample data.ods (Raw Data)
 * AT ML technical Test.docx (AT Guideline)
@@ -47,28 +49,11 @@ This project is a technical test , part of the recruitment process for the Data 
 ### Installing
 
 ### Executing program
-Clone this repo
-
-Raw Data is being kept [here](Technical test sample data.ods) within this repo.
-
-Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-
-etc...
-
-If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here
-
-Follow setup [instructions](Link to file)
-
-
-Explain to potential users how to run/replicate your workflow. If necessary, touch upon the required input data, which secret credentials are required (and how to obtain them), which software tools are needed to run the workflow (including links to the installation instructions), and how to run the workflow.
-
-
-
-
-## More resources
-
-Point interested users to any related literature and/or documentation.
-
+1. Clone this repo
+2. Raw Data is being kept [here](https://github.com/tdongnguyen/AT-Test/blob/f9ab9cd6fe7d766d94e3a3c713cabbc51c12e58b/Technical%20test%20sample%20data.ods) within this repo.
+3. Main Script is being kept [here](https://github.com/tdongnguyen/AT-Test/blob/f9ab9cd6fe7d766d94e3a3c713cabbc51c12e58b/AT%20Test%20-%20Nov%202021.ipynb)
+4. Run the training Script (Note: Change the path of input file to where you save data in your local machine)
+5. Using the pickle which is being kept [here] () to scoring more data. 
 
 ## Author
 Ryan Truong - ryantruong1987@gmail.com
