@@ -17,13 +17,15 @@ This project is a technical test , part of the recruitment process for the Data 
 
 ### Methods Used
 * Inferential Statistics
-* mice (Multivariate Imputation by Chained Equations)
-* Machine Learning Algorithm: Isolation Forest (https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html
+* mice (Multivariate Imputation by Chained Equations) (https://impyute.readthedocs.io/en/latest/_modules/impyute/imputation/cs/mice.html)
+* IQR (Interquartile Range) (https://en.wikipedia.org/wiki/Interquartile_range)
+* Machine Learning Algorithm: Isolation Forest (https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html)
+* Visualisation: Seaborn, Matplotlib
 
 ### Technologies
-Python
-Pandas
-Pickle
+*Python
+*Pandas
+*Pickle
 
 ## Results
 
