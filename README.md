@@ -11,10 +11,17 @@ This project is a technical test , part of the recruitment process for the Data 
 * Technical Test for candidate
 * Fraud Dectection
 * Scaleable model building
-*
+* Find applicable insights to support business 
 
 ## Method and results
 
+### Methods Used
+* Inferential Statistics
+* mice (Multivariate Imputation by Chained Equations)
+* Machine Learning Algorithm: Isolation Forest (https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html
+Data Visualization
+Predictive Modeling
+etc.
 
 First, introduce and motivate your chosen method, and explain how it contributes to solving the research question/business problem.
 
