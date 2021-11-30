@@ -4,7 +4,7 @@ A small project to test technical skills for Data Scientist Role in Auckland Tra
 
 ## Description
 
-This project is a technical test , part of the recruitment process for the Data Scientist Role in Auckland Transport. In this project, author use the provided dataset and follow a guideline from AT. This project is basically building a fraud detection unsupervised model, pack it up as a package and prepare a presentation for findings. 
+A technical test project, part of the recruitment process for the Data Scientist Role in Auckland Transport. In this project, author uses the provided dataset and follow a guideline from AT. This project is basically about building a fraud detection unsupervised model, pack it up as a package and prepare a presentation for findings. 
 
 ## Business Problem
 
