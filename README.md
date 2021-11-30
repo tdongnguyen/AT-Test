@@ -88,8 +88,9 @@ Explain to potential users how to run/replicate your workflow. If necessary, tou
 Point interested users to any related literature and/or documentation.
 
 
-## About
+## Author
+Ryan Truong - ryantruong1987@gmail.com
 
-Explain who has contributed to the repository. You can say it has been part of a class you've taken at Tilburg University.
+
 
 
