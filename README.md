@@ -17,10 +17,10 @@ A technical test project, part of the recruitment process for the Data Scientist
 
 ### Methods Used
 * Inferential Statistics
-* mice (Multivariate Imputation by Chained Equations) (https://impyute.readthedocs.io/en/latest/_modules/impyute/imputation/cs/mice.html)
-* IQR (Interquartile Range) (https://en.wikipedia.org/wiki/Interquartile_range)
-* Machine Learning Algorithm: Isolation Forest (https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html)
-* Machine Learning Algorithm: RandomForestRegressor (https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
+* mice (Multivariate Imputation by Chained Equations) [Reference](https://impyute.readthedocs.io/en/latest/_modules/impyute/imputation/cs/mice.html)
+* IQR (Interquartile Range) [Reference](https://en.wikipedia.org/wiki/Interquartile_range)
+* Machine Learning Algorithm: Isolation Forest [Reference](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html)
+* Machine Learning Algorithm: RandomForestRegressor [Reference](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
 
 ### Technologies
 * Python
@@ -32,7 +32,7 @@ A technical test project, part of the recruitment process for the Data Scientist
 
 ## Results - Findings
 
-Presentation [here] https://github.com/tdongnguyen/AT-Test/blob/5a9a52fbdd931e4097231d7ec67af32e30c79ca9/Presentation.pptx
+Presentation [here](https://github.com/tdongnguyen/AT-Test/blob/5a9a52fbdd931e4097231d7ec67af32e30c79ca9/Presentation.pptx)
 
 ## Repository overview
 
