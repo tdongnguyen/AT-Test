@@ -30,7 +30,7 @@ A technical test project, part of the recruitment process for the Data Scientist
 * Pickle
 * Visualisation: Seaborn, Matplotlib
 
-## Results
+## Results - Findings
 
 Presentation [here] https://github.com/tdongnguyen/AT-Test/blob/5a9a52fbdd931e4097231d7ec67af32e30c79ca9/Presentation.pptx
 
@@ -44,13 +44,8 @@ Presentation [here] https://github.com/tdongnguyen/AT-Test/blob/5a9a52fbdd931e40
 
 
 
-## Running instructions
+## Running steps
 
-### Dependencies
-
-### Installing
-
-### Executing program
 1. Clone this repo
 2. Raw Data is being kept [here](https://github.com/tdongnguyen/AT-Test/blob/f9ab9cd6fe7d766d94e3a3c713cabbc51c12e58b/Technical%20test%20sample%20data.ods) within this repo.
 3. Main Script is being kept [here](https://github.com/tdongnguyen/AT-Test/blob/f9ab9cd6fe7d766d94e3a3c713cabbc51c12e58b/AT%20Test%20-%20Nov%202021.ipynb)
