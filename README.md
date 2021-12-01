@@ -13,14 +13,14 @@ A technical test project, part of the recruitment process for the Data Scientist
 * Scaleable model building
 * Find applicable insights to support business 
 
-## Method
+## Technical Methods
 
-### Methods Used
+### Methods
 * Inferential Statistics
-* mice (Multivariate Imputation by Chained Equations) [Reference](https://impyute.readthedocs.io/en/latest/_modules/impyute/imputation/cs/mice.html)
-* IQR (Interquartile Range) [Reference](https://en.wikipedia.org/wiki/Interquartile_range)
-* Machine Learning Algorithm: Isolation Forest [Reference](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html)
-* Machine Learning Algorithm: RandomForestRegressor [Reference](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
+* mice (Multivariate Imputation by Chained Equations) - [Reference](https://impyute.readthedocs.io/en/latest/_modules/impyute/imputation/cs/mice.html)
+* IQR (Interquartile Range) - [Reference](https://en.wikipedia.org/wiki/Interquartile_range)
+* Machine Learning Algorithm: Isolation Forest - [Reference](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html)
+* Machine Learning Algorithm: RandomForestRegressor - [Reference](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
 
 ### Technologies
 * Python
@@ -34,15 +34,15 @@ A technical test project, part of the recruitment process for the Data Scientist
 
 Presentation [here](https://github.com/tdongnguyen/AT-Test/blob/5a9a52fbdd931e4097231d7ec67af32e30c79ca9/Presentation.pptx)
 
-## Repository overview
+## Repository
 
 * README.md
 * AT Test - Nov 2021.ipynb  (Main Script Notebook)
 * Presentation.pptx (Presentation to stakeholder)
 * Technical test sample data.ods (Raw Data)
 * AT ML technical Test.docx (AT Guideline)
-
-
+* Data.odsanomaly_iforest2021_12_01.pkl (Pickle file where saved trained model)
+* Fraud Detection - Predict.ipynb (Predict Script Notebook)
 
 ## Running steps
 
@@ -52,6 +52,7 @@ Presentation [here](https://github.com/tdongnguyen/AT-Test/blob/5a9a52fbdd931e40
 4. Run the training Script (Note: Change the path of input file to where you save data in your local machine)
 5. Using the pickle which is being kept [here](https://github.com/tdongnguyen/AT-Test/blob/1dabb3b4442f4eb97890c27d94932b990ed9bf56/Data.odsanomaly_iforest2021_12_01.pkl) to scoring more data. 
 6. Run the prediction script  with new data to score data [here](https://github.com/tdongnguyen/AT-Test/blob/1dabb3b4442f4eb97890c27d94932b990ed9bf56/Fraud%20Detection%20-%20Predict.ipynb).
+
 ## Author
 Ryan Truong - ryantruong1987@gmail.com
 
