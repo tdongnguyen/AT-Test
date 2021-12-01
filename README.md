@@ -8,9 +8,9 @@ A technical test project, part of the recruitment process for the Data Scientist
 
 ## Business Problem
 
-* Technical Test for candidate
+* Technical Test
 * Fraud Dectection
-* Scaleable model building
+* Scalable model building
 * Find applicable insights to support business 
 
 ## Technical Methods
