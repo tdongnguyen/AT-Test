@@ -13,7 +13,7 @@ A technical test project, part of the recruitment process for the Data Scientist
 * Scaleable model building
 * Find applicable insights to support business 
 
-## Method and results
+## Method
 
 ### Methods Used
 * Inferential Statistics
@@ -32,6 +32,7 @@ A technical test project, part of the recruitment process for the Data Scientist
 
 ## Results
 
+Presentation [here] https://github.com/tdongnguyen/AT-Test/blob/5a9a52fbdd931e4097231d7ec67af32e30c79ca9/Presentation.pptx
 
 ## Repository overview
 
@@ -54,8 +55,8 @@ A technical test project, part of the recruitment process for the Data Scientist
 2. Raw Data is being kept [here](https://github.com/tdongnguyen/AT-Test/blob/f9ab9cd6fe7d766d94e3a3c713cabbc51c12e58b/Technical%20test%20sample%20data.ods) within this repo.
 3. Main Script is being kept [here](https://github.com/tdongnguyen/AT-Test/blob/f9ab9cd6fe7d766d94e3a3c713cabbc51c12e58b/AT%20Test%20-%20Nov%202021.ipynb)
 4. Run the training Script (Note: Change the path of input file to where you save data in your local machine)
-5. Using the pickle which is being kept [here] () to scoring more data. 
-
+5. Using the pickle which is being kept [here](https://github.com/tdongnguyen/AT-Test/blob/1dabb3b4442f4eb97890c27d94932b990ed9bf56/Data.odsanomaly_iforest2021_12_01.pkl) to scoring more data. 
+6. Run the prediction script  with new data to score data [here](https://github.com/tdongnguyen/AT-Test/blob/1dabb3b4442f4eb97890c27d94932b990ed9bf56/Fraud%20Detection%20-%20Predict.ipynb).
 ## Author
 Ryan Truong - ryantruong1987@gmail.com
 
